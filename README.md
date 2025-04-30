@@ -5,10 +5,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/963988764034744401/1277767400573632522/github.png?ex=66ce5d20&is=66cd0ba0&hm=9476fc75936bde8a724d3131b645562cc494479d892630decccd7052c2c88f9a&" alt="Card header"/>
-</div>
-
 <div>
 
   ## 🧭 &nbsp;About Me
